@@ -12,6 +12,6 @@ Contrary to intuition, the optimal strategy is to switch doors. This choice yiel
 
 The Monty Hall problem gained widespread attention in 1990 when it was featured in the Ask Marilyn column in Parade magazine. It has since become a classic example used to illustrate the principles of probability and the impact of new information on decision-making.
 
-To explore and understand the dynamics of the Monty Hall problem, <b>you can run the provided code in the repository named "mont_hall_goats.py."<\b> This Python script demonstrates the probabilities involved and showcases how different strategies affect the outcome.
+To explore and understand the dynamics of the Monty Hall problem, <b>you can run the provided code in the repository named "mont_hall_goats.py."</b> This Python script demonstrates the probabilities involved and showcases how different strategies affect the outcome.
 
 Join the quest to unravel the mysteries of probability and challenge your intuition with the Monty Hall problem.
